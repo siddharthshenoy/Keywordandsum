@@ -4,3 +4,5 @@
 /glove.6B.200d.txt
 /glove.6B.300d.txt
 /glove.840B.300d.txt
+/glove_model_50d.pickle
+/glove_model_100d.pickle
