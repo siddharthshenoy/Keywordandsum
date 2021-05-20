@@ -12,3 +12,5 @@
 /glove.6B.100d.txt.w2v
 /glove.6B.200d.txt.w2v
 /glove.6B.300d.txt.w2v
+/word2vec_model_300d.pickle
+/GoogleNews-vectors-negative300.bin
